@@ -8,6 +8,10 @@ A high-performance drone simulation controlled entirely by hand gestures. This p
 
 ---
 
+![unnamed](https://github.com/user-attachments/assets/a0663e34-b145-428d-a3c2-f302bf423c64)
+
+---
+
 ## ✨ Features
 
 - **🎮 Intuitive Gesture Control**: Control flight dynamics with simple hand movements.
